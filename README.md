@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nafid Zanis
-- 👀 I’m interested in Web Programming, Developer
-- 🔭 I’m a computer science student at Sultan Agung University
+- 👀 I’m interested in Web Programming, Machine Learning
+- 🔭 I’m a computer science student at Islamic University of Sultan Agung
 - ⚡ Fun fact I like tea than coffee
 - ♑
 - 
