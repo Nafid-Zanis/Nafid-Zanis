@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafid-zanis&label=Profile%20views&color=0e75b6&style=flat" alt="nafid-zanis" /> </p>
 
-- 🔭 I’m currently study on **Computer Science at Islamic University of Sultan Agung**
+- 🔭 I’m a recent graduate with a degree in **Informatic Engineering from Islamic University of Sultan Agung**
 
-- 🌱 I’m currently learning **React Javascript , Node JS**
+- 🌱 I’m currently learning **React Javascript and PHP Laravel**
 
-- 💬 Ask me about **Website and UI/UX Design**
+- 💬 Ask me about **Website and Software Development**
 
 - 📫 How to reach me **nafidzanis6@gmail.com**
 
